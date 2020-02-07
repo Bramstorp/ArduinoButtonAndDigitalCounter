@@ -1,1 +1,12 @@
 # ArduinoButtonAndDigitalCounter
+
+Creating Diagram and setup for the Arduino check out => www.circuito.io
+
+-Equipment Needed-
+Arduino Uno
+Usb Cable
+BreadBoard 
+Seven Segment Display
+Push Button
+10x Jumper Wires
+2x 220 Ohm Resistors
